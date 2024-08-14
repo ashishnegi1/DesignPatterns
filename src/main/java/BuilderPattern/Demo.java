@@ -14,6 +14,8 @@ public class Demo {
         System.out.println("Performance Mods total price : " + carMods2.getCost());
         carMods2.showItems();
 
+        // Instead of just making mod packages you can build entire car with different parts in builder file and just call whichever built cars you have.
+
     }
 
 }
